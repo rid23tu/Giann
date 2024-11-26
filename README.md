@@ -132,7 +132,8 @@ If you encounter problems, open an issue on GitHub, and we'll address it promptl
 
 > [!TIP]
 > If you're having trouble, don't hesitate to reach out to us on [Discord](https://discord.gg/interstellar) for personalized support.
-
+https://automatic-capybara-q7vrv64xv74vh9xgr-8080.app.github.dev/
+> 
 # Credits
 
 A huge thanks goes out to all of the people who have contributed to Interstellar.
